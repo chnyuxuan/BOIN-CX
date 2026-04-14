@@ -1,6 +1,6 @@
 # BOIN-CX
 
-Bayesian Optimal INterval Design Extensions for Drug-Combination Phase I Clinical Trials (BOIN-CX)
+Bayesian Optimal INterval Design Extensions for Dual-Agent Dose-Escalation study with Selected Dose Combinations (BOIN-CX)
 
 ### Instructions to download and install
 
