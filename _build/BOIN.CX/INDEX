@@ -1,0 +1,9 @@
+get.oc.combBB           Generate operating characteristics for drug
+                        combination trials
+get.oc.combBB.parallel
+                        Generate operating characteristics for drug
+                        combination trials
+get.oc.combP            Generate operating characteristics for drug
+                        combination trials
+summary.boinP           Generate descriptive summary for objects
+                        returned by other functions.

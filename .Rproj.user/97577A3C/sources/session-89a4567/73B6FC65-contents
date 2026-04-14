@@ -1,4 +1,4 @@
-Package: BOIN-CX
+Package: BOIN.CX
 Type: Package
 Title: Bayesian Optimal INterval Design Extensions for Drug-Combination Phase I Clinical Trials (BOIN-CX)
 Version: 0.1.0
