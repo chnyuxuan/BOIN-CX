@@ -10,7 +10,7 @@ Bayesian Optimal INterval Design Extensions for Drug-Combination Phase I Clinica
 
 #Install package BOIN.CX
 
-`devtools::install_local("path/to/BOIN-CX")`
+`devtools::install_github("chnyuxuan/BOIN-CX")`
 
 #To browse the package functions, type
 
